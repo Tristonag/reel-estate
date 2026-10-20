@@ -1,0 +1,86 @@
+{
+  "name": "reel-estate",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared",
+        "Remotes": {
+          "$className": "Folder",
+          "DataUpdated": {
+            "$className": "RemoteEvent"
+          },
+          "GetData": {
+            "$className": "RemoteFunction"
+          },
+          "RecheckGroup": {
+            "$className": "RemoteEvent"
+          },
+          "Cast": {
+            "$className": "RemoteFunction"
+          },
+          "ReelFinish": {
+            "$className": "RemoteFunction"
+          },
+          "SellItems": {
+            "$className": "RemoteFunction"
+          },
+          "PlaceItem": {
+            "$className": "RemoteFunction"
+          },
+          "PickUpItem": {
+            "$className": "RemoteFunction"
+          },
+          "RotateItem": {
+            "$className": "RemoteFunction"
+          },
+          "ExpandIsland": {
+            "$className": "RemoteFunction"
+          },
+          "Travel": {
+            "$className": "RemoteEvent"
+          },
+          "BuyRod": {
+            "$className": "RemoteFunction"
+          },
+          "EquipRod": {
+            "$className": "RemoteFunction"
+          },
+          "BuyBait": {
+            "$className": "RemoteFunction"
+          },
+          "EquipBait": {
+            "$className": "RemoteFunction"
+          },
+          "ShowReveal": {
+            "$className": "RemoteEvent"
+          },
+          "TutorialDone": {
+            "$className": "RemoteEvent"
+          },
+          "Rebirth": {
+            "$className": "RemoteFunction"
+          },
+          "SaveSettings": {
+            "$className": "RemoteEvent"
+          },
+          "GetOdds": {
+            "$className": "RemoteFunction"
+          }
+        }
+      }
+    },
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server"
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
+}

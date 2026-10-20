@@ -1,0 +1,12 @@
+# Studio place/model files (the code lives in src/)
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.lock
+
+# Tooling output
+sourcemap.json
+Packages/
+.DS_Store
+Thumbs.db
