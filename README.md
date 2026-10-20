@@ -2,8 +2,9 @@
 
 A Roblox game where you fish mystery crates out of the sea and build your own island from what you catch.
 
-<!-- TODO: record a 20-second clip (cast, reel, crate reveal, placing an item on your island), turn it into a GIF, save it as docs/demo.gif, and this line shows it -->
-![Gameplay](docs/demo.gif)
+
+https://github.com/user-attachments/assets/017a9ae6-0277-4720-bd02-699369e17d07
+
 
 **Play it:** <!-- TODO: open this link in a private window and check the game page loads --> https://www.roblox.com/games/126846978606995
 
